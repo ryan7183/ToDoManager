@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ToDoManager</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_task_view">TaskView</string>
+    <string name="sub_task_view_title">Sub Task</string>
+    <string name="task_name_hint">Task Name</string>
+    <string name="task_name_lbl">Task Name</string>
+    <string name="task_notes_lbl">Notes:</string>
+    <string name="delete_task_btn">Delete Task</string>
+    <string name="save_task_btn">Save Changes</string>
+    <string name="task_notes_hint">Task Notes</string>
+</resources>
